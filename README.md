@@ -1,7 +1,7 @@
 # EssentialJava
 
 <h3>Essential Java Examples</h3>
-The examples in this project are related to the Java essentials tutorial that you can find at this location: 
+The examples in this project apply to the concepts explained in the 
 <a href="http://docs.oracle.com/javase/tutorial/essential/" target="_blank">Trail: Essential Classes</a>. 
 <ol>
 	<li>The exception examples demonstrates the exception mechanism and how it is used to handle errors and 
